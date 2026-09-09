@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mowshika Srivarshini — Software Developer | AI & Machine Learning",
+      "hasCanvas": false,
+      "bodyTextLen": 5701,
+      "bodyTextHash": "028ee74b2edd3b690f17525bf2b9a7b162bf22e3897055865128396cf7753a3d",
+      "bodyTextPrefix": "SKIP TO CONTENT OPEN TO INTERNSHIPS · COLLABORATIONS · INTELLIGE",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mowshika Srivarshini — Software Developer | AI & Machine Learning",
+      "hasCanvas": true,
+      "bodyTextLen": 5656,
+      "bodyTextHash": "3cb27dc6e00db13855797d74dba59d7c5d2867bd086938ebbc16af452cdb4596",
+      "bodyTextPrefix": "SKIP TO CONTENT OPEN TO INTERNSHIPS · COLLABORATIONS · INTELLIGE",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
